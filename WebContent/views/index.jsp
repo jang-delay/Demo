@@ -2,11 +2,11 @@
 <%@ page session="false" %>
 <html>
 <head>
-	<title>Home</title>
+	<title>Test</title>
 </head>
 <body>
 <h1>
-	Create Token Test 
+	Create Token Test.
 </h1>
 
 <P>  The time on the server is ${serverTime}. </P>
